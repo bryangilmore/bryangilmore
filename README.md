@@ -21,6 +21,9 @@ This profile highlights hands-on labs and investigations where I work with real 
 
 ## 🤳 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/bryan-gilmore-ii-9b13231b9/](https://www.linkedin.com/in/bryan-gilmore-ii-9b13231b9/)
+
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/bryan-gilmore-ii-9b13231b9/
 
 <!-- Replace the underscores above with your actual LinkedIn handle -->
