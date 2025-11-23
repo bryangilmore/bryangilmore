@@ -1,7 +1,7 @@
 # Bryan Gilmore II – IT and Cybersecurity Project Portfolio 🔐
 
 I am focused on blue team work, threat hunting, and security operations.  
-This profile highlights hands-on labs and investigations where I work with real tools, real logs, and document everything in a way that would fit into a SOC or IR workflow.
+My goal is to highlight hands-on labs and investigations where I work with real tools, real logs, and document everything in a way that would fit into a SOC or IR workflow.
 
 ---
 
