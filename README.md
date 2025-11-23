@@ -1,16 +1,26 @@
-## Hi there 👋
+# Bryan Gilmore II – IT and Cybersecurity Project Portfolio 🔐
 
-<!--
-**bryangilmore/bryangilmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am focused on blue team work, threat hunting, and security operations.  
+This profile highlights hands-on labs and investigations where I work with real tools, real logs, and document everything in a way that would fit into a SOC or IR workflow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚨 Threat Hunting and Security Operations
+
+- **[Azure Threat Hunt – Port of Entry](https://github.com/bryangilmore/Azure-Threat-Hunt-Port-of-Entry)**  
+  End to end investigation of a simulated breach in Microsoft Defender for Endpoint and Microsoft 365 Defender.  
+
+---
+
+## 🛡️ Blue Team Lab Environment
+
+- **[Campus Security Operations Lab – AD, Nessus, and Threat Hunting](https://github.com/bryangilmore/Campus-Security-Operations-Lab-AD-Nessus-and-Threat-Hunting)**  
+  A small enterprise style lab that simulates a campus environment with Active Directory, Nessus, and security monitoring.  
+
+---
+
+## 🤳 Connect With Me
+
+- **LinkedIn:** [https://www.linkedin.com/in/bryan-gilmore-ii-9b13231b9/](https://www.linkedin.com/in/bryan-gilmore-ii-9b13231b9/)
+
+<!-- Replace the underscores above with your actual LinkedIn handle -->
