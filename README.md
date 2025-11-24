@@ -5,6 +5,13 @@ My goal is to highlight hands-on labs and investigations where I work with real 
 
 ---
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Windows Server 2019 STIG + Nessus Remediation Lab](https://github.com/bryangilmore/Windows-Server-2019-STIG-Nessus-Lab/tree/main)**  
+  Hardening a Windows Server 2019 host by using Tenable Nessus to identify DISA STIG and vulnerability findings, then remediating them entirely with custom PowerShell scripts.  
+
+---
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Azure Threat Hunt – Port of Entry](https://github.com/bryangilmore/Azure-Threat-Hunt-Port-of-Entry)**  
