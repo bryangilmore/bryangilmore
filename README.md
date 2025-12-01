@@ -8,7 +8,10 @@ My goal is to highlight hands-on labs and investigations where I work with real 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Windows Server 2019 STIG + Nessus Remediation Lab](https://github.com/bryangilmore/Windows-Server-2019-STIG-Nessus-Lab/tree/main)**  
-  Hardening a Windows Server 2019 host by using Tenable Nessus to identify DISA STIG and vulnerability findings, then remediating them entirely with custom PowerShell scripts.  
+  Hardening a Windows Server 2019 host by using Tenable Nessus to identify DISA STIG and vulnerability findings, then remediating them entirely with custom PowerShell scripts.
+
+- **[TAC 202 Vulnerability Management Lab – Red Sand Manufacturing](https://github.com/bryangilmore/TAC-202-Vulnerability-Management-Lab)**  
+  TAC 202 aligned vulnerability management lab that simulates a 200 server environment by defining policy, tiered asset inventory, credentialed Nessus scans, targeted remediation on a Tier 1 domain controller, and    documented risk acceptance that matches Texas public sector requirements.
 
 ---
 
