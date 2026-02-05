@@ -10,7 +10,7 @@ My goal is to ship clean, documented work that is easy to review, run, and repro
 
 - **Foundations Toolkit (Python, Linux, Networking, Git)**  
   Small utilities and mini projects used to build fundamentals.  
-  Repo: [foundations-toolkit](LINK_HERE)
+  Repo: [foundations-toolkit](https://github.com/bryangilmore/foundations-toolkit?tab=readme-ov-file)
 
 - **Java DSA Portfolio**  
   Data structures and algorithms in Java with tests and notes. (WIP) 
